@@ -3,6 +3,7 @@ namespace app\index\controller;
 use app\common\model\Teacher;  //教师模型
 use think\Request;            // 引用Request
 use think\Controller;
+//use think\Validate;
 /**
 * 教师管理
 */
